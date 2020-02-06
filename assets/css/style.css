@@ -1,0 +1,142 @@
+.titulo {
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+
+
+.titulo2 {
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+
+body {
+  font-family: 'Cabin', sans-serif;
+}
+.pizzaespinaca{
+  width: 15%;
+
+}
+
+.line{
+
+  border-top: 1px solid black
+}
+
+.prefooter{
+  background-color: #DC3545;
+  text-align: center;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  color: white;
+  font-size: 100%;
+}
+.titulofooter{
+font-size: 3rem;
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+}
+.card-title{
+  width: 40%;
+  color: #373A3C
+
+}
+
+.margen{
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 2%;
+}
+
+.line3{
+  margin-left: 125px;
+  margin-right: 125px;
+  border-top: 3px solid black
+
+}
+.ingredientes{
+  width: 50%;
+  text-align: left;
+}
+.preparacion{
+  width: 50%;
+  text-align: right;
+}
+
+.lineb{
+  margin-right: 405px;
+  border-top: 1px solid black
+}
+h1{
+  text-align: center;
+}
+
+.centro{
+       margin: 0 auto; /* Added */
+       float: none; /* Added */
+       margin-bottom: 10px; /* Added */
+
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+.card-title{
+  width: 100%;
+  text-align: center;
+}
+}
+
+.card2 {
+
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color:
+    #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+ }
+ .letrafooter2 {
+    font-family: 'Lobster', cursive;
+
+ }
+ .text-pie{
+
+ font-family: 'Lobster', cursive;
+}
+
+.text-light {
+    color:#f8f9fa !important;
+    font-family: 'Lobster';
+
+}
+
+li{
+  list-style: none;
+}
+.text-center {
+
+    text-align: center !important;
+font-family: 'Lobster';
+}
+/* Extra small devices (phones, 600px and down) */
+/* @media only screen and (max-width: 600px) {
+.responsive-cards
+  } */
+
+
+span{
+  font-family: 'Lobster', cursive !important;
+}
